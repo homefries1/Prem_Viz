@@ -1,0 +1,8 @@
+pandas
+dash
+html
+dcc
+BeautifulSoup
+requests
+plotly
+dash_boostrap_templates
