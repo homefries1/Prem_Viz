@@ -82,7 +82,7 @@ fig.update_layout(paper_bgcolor="rgb(0,0,0,0)",  plot_bgcolor='rgba(0,0,0,0)')
 dbc_css = "https://cdn.jsdelivr.net/gh/AnnMarieW/dash-bootstrap-templates/dbc.min.css"
 load_figure_template("darkly")
 app = Dash(__name__,external_stylesheets=[dbc.themes.QUARTZ, dbc_css])
-
+server = app.server 
 
 
 
