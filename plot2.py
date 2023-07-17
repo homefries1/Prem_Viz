@@ -69,7 +69,7 @@ fig.add_trace(go.Table(
 fig.update_layout(
     height=1200,
     showlegend=True,
-    title_text="2023-2024 Premier League Table",
+    title_text="The 2023-2024 Premier League Table",
 title_y = 0.985, title_x = 0,
 title_font_color="white",
 legend_font_color = "white"
