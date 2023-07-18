@@ -1,6 +1,6 @@
 #Get current Premier League Standings in a list
 import pandas as pd
-#from html.parser import HTMLParser
+from html.parser import HTMLParser
 from bs4 import BeautifulSoup as bs
 import requests
 from pprint import pprint
