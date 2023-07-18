@@ -1,5 +1,4 @@
 pandas
-html
 dash
 dcc
 BeautifulSoup4
