@@ -1,7 +1,7 @@
 pandas
 dash
 dcc
-BeautifulSoup
+BeautifulSoup4
 requests
 plotly
 dash_boostrap_templates
