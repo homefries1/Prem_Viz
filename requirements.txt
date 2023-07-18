@@ -1,6 +1,5 @@
 pandas
 dash
-html
 dcc
 BeautifulSoup
 requests
