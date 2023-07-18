@@ -1,7 +1,7 @@
 pandas~=2.0.2
 dash~=2.9.3
 dcc
-BeautifulSoup
+BeautifulSoup~=4.0.0
 requests~=2.28.2
 plotly~=5.14.1
 dash_boostrap_templates
